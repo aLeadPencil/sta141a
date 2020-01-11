@@ -4,3 +4,4 @@
 ### Introduction to R
 ### Exploratory Data Analysis
 ### Data Visualization
+### KNN
