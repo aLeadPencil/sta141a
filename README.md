@@ -22,3 +22,9 @@
 
 ## HW 4
 * Exploratory Spatial Data Analysis of the flight patterns of 5 birds known as Swainson's Hawks
+
+
+## Project
+* Group Project
+* Building of a KNN model from scratch and testing the model on 60,000 images of 10 classes
+* Analysis of KNN model results using cross validation and confusion matrix
