@@ -1,7 +1,7 @@
 # STA 141A Fundamentals of Statistical Data Science
 
 ## Concepts Covered
-### Introduction to R
+* Introduction to R
 ### Exploratory Data Analysis (EDA)
 ### Data Visualization
 ### Linear Regression
