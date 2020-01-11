@@ -1,1 +1,1 @@
-##STA 141A Fundamentals of Statistical Data Science
+## STA 141A Fundamentals of Statistical Data Science
