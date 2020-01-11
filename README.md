@@ -19,7 +19,7 @@
 
 
 ## HW 3
-* Simulation of Monopoly and analysis of the results of the simulation
+* Simulation of Monopoly and analysis of the simulation results
 
 
 ## HW 4
