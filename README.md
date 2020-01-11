@@ -6,6 +6,8 @@
 * Data Visualization
 * Linear Regression
 * KNN
+* Cross Validation
+* Confusion Matrix
 
 
 ## HW 1
